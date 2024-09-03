@@ -30,12 +30,21 @@ Key Insight: Road and rail modes of transportation are the most costly, while ai
 7. Defect Rate Analysis
 A bar chart shows the defect rates by product type, and a pie chart visualizes defect rates by transportation mode.
 Key Insight: Haircare products have higher defect rates, particularly when transported by road.
+
+
 Key Insights and Recommendations
 Skincare Focus: Continue prioritizing skincare products as they are the largest revenue driver. Optimize pricing strategy for this category.
+
 Carrier Evaluation: Explore cost-effective alternatives to Carrier B while maintaining performance.
+
 Defect Reduction: Focus on improving quality control for haircare products and shift more transportation to air to reduce defect rates.
+
 Inventory Optimization: Address SKUs with high demand and low stock levels to prevent stockouts.
+
 Lead Time Optimization: Reducing lead times for haircare and skincare products can improve responsiveness to market demand.
+
 Cost Efficiency in Transportation: Optimizing transportation modes may reduce overall supply chain costs.
-Conclusion
+
+
+Conclusion:
 This project provides valuable insights into the supply chain's performance and areas for improvement. By analyzing key metrics such as sales performance, defect rates, transportation costs, and SKU-level data, the company can optimize its supply chain, reduce costs, and enhance product quality. Further analysis and continuous monitoring are recommended to support strategic decision-making.
